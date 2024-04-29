@@ -13,5 +13,7 @@ This tool not download any other Romset.
 Due to Windows' restrictive policies regarding SSL libraries, it's possible that the program may be detected as a virus. If that's the case, you just need to add an exception to the antivirus for SiDi128SD.exe.  
 
 SiDi128SD use this Libraries:  
-OpenSSL - https://www.openssl.org/
+OpenSSL - https://www.openssl.org/  
+Curl  - https://curl.se/  
+Zlib - https://github.com/madler/zlib  
 
