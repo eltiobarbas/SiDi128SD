@@ -19,4 +19,4 @@ Zlib - https://github.com/madler/zlib
 Pugixml - https://pugixml.org/  
 Nlohmann - https://github.com/nlohmann/json
 
-@eltiobarbas
+2024 @eltiobarbas
