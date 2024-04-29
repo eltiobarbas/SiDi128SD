@@ -19,3 +19,4 @@ Zlib - https://github.com/madler/zlib
 Pugixml - https://pugixml.org/  
 Nlohmann - https://github.com/nlohmann/json
 
+SiDi128 its free LOG POLICY, not store or 
