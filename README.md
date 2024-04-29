@@ -8,7 +8,7 @@ SiDi128SD is designed to create new SD card or update your actual card to use wi
 -Arcade Roms ready to use with SiDi128 Format  
 -Bios  
 
-This tool not download any other Romset.  
+This tool not stored any data , all its downloaded via GitHub or https://alternative.org download any other Romset.  
 
 Due to Windows' restrictive policies regarding SSL libraries, it's possible that the program may be detected as a virus. If that's the case, you just need to add an exception to the antivirus for SiDi128SD.exe.  
 
