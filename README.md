@@ -18,3 +18,5 @@ Curl  - https://curl.se/
 Zlib - https://github.com/madler/zlib  
 Pugixml - https://pugixml.org/  
 Nlohmann - https://github.com/nlohmann/json
+
+@eltiobarbas
