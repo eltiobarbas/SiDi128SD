@@ -19,4 +19,6 @@ Zlib - https://github.com/madler/zlib
 Pugixml - https://pugixml.org/  
 Nlohmann - https://github.com/nlohmann/json
 
-SiDi128 its free LOG POLICY, not store or 
+SiDi128 not keep any data or log about use or connection and its free to use it.
+
+
